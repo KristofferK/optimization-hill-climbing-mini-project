@@ -8,12 +8,12 @@ All the problems for this project will be two dimensional.
 * Reverse Ackley.
 
 ### P1
-![P1 function][p1function]
+The fitness to this problem is described as ![P1 function][p1function]
 
 ![P1][p1img]
 
 ### P2
-![P2 function][p2function]
+The fitness to this problem is described as ![P2 function][p2function]
 
 ![P2][p2img]
 
